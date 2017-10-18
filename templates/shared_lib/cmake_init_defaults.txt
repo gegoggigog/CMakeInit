@@ -1,0 +1,2 @@
+!@project@! = Project
+!@lib@! = my_lib
