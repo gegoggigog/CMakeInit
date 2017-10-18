@@ -1,3 +1,4 @@
+cmake_minimum_required(VERSION 3.7.1)
 project(!@project@!)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
